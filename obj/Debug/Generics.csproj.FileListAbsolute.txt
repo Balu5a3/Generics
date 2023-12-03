@@ -1,0 +1,8 @@
+D:\VS2034\Generics\Generics\bin\Debug\Generics.exe.config
+D:\VS2034\Generics\Generics\bin\Debug\Generics.exe
+D:\VS2034\Generics\Generics\bin\Debug\Generics.pdb
+D:\VS2034\Generics\Generics\obj\Debug\Generics.exe
+D:\VS2034\Generics\Generics\obj\Debug\Generics.pdb
+D:\VS2034\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\VS2034\Generics\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\VS2034\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
